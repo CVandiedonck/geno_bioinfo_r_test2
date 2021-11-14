@@ -14,5 +14,3 @@ dependencies:
   - r-base>=4.1.0
   - r-rcpp
   - r-tidyverse
-  - bioconductor-clusterprofiler
-  - bioconductor-complexheatmap
